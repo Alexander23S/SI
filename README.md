@@ -1,2 +1,2 @@
 # SI
-pruebas algoritmos
+Tests
